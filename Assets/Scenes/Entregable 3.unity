@@ -343,7 +343,19 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   num1: 6
   num2: 2
-  letra: a
+  letra: E
+  num3: 8
+  num4: 4
+  nota: D
+  days: 25
+  months: 5
+  years: 2005
+  diasetmana: dimecres
+  edat: 50
+  rango: plata
+  angle1: 60
+  angle2: 50
+  angle3: 60
 --- !u!65 &1486023559
 BoxCollider:
   m_ObjectHideFlags: 0
